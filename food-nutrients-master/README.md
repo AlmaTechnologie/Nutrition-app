@@ -27,11 +27,6 @@ We wanted to keep it simple and may move to using the [USDA Food Database](https
 
 Feel free to add suggestions, PRs, comments and bug reports.
 
-## Authors
-
-Alex Kolarski (aleks.rk@gmail.com)
-Boris Minev (boriss.minev@gmail.com)
-
 ## License
 
 (The MIT License)
